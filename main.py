@@ -9,7 +9,7 @@ import uvicorn
 # ============================================================
 #  CẤU HÌNH
 # ============================================================
-DISCORD_TOKEN = "MTExNTYzOTAzNjA5NTI1NDYwMA.Gxsxjt.WLzNTI7_2QH6wnb7nahbBJmAqNGQHyW9PWo3wU"
+DISCORD_TOKEN = "MTExNTYzOTAzNjA5NTI1NDYwMA.GPchLY.5TwyTGY70WqQfA3Jx18QCNW9neVAn67CGFzt_U"
 
 WEBHOOKS = {
     "boss":        "https://discord.com/api/webhooks/1520778925503021076/cIPa6rjOlNCAok29IPzoULQu7huFom_pAirhFT3X-jDzlazfJreXs_4RryiDtG2V_t_S",
